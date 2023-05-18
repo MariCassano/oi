@@ -1,4 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 h1{
     text-align: center;
     font-size: 60px;
+    font-style: italic;
+    font-weight: 100;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+    transition: 0.3s;
+}
+.imagemlogo{
+    margin: 40px;
+    margin-right: 40px;
+    padding: 20px;
+    border: 30px;
 }
